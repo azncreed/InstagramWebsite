@@ -11,6 +11,10 @@ gem 'rails', '~> 5.0.2'
 
 gem 'devise'
 
+gem 'carrierwave', '~>1.0'
+
+gem 'socialization'
+
 gem 'materialize-sass'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
